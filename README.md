@@ -6,4 +6,11 @@ A repo to show some of the [Kaggle competitions](https://www.kaggle.com/yashmath
 * [Titanic Competition](https://www.kaggle.com/c/titanic)
 * [Housing Prices Competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 
-
+## Libraries Used
+Some libraries I often used in notebooks:
+* Numpy
+* Pandas
+* Seaborn
+* Matplotlib
+* Sklearn
+* Tensorflow
